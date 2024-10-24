@@ -11,9 +11,6 @@ Content will still be missing and therefore I have incorparated external work, e
 
 ### Base
 
-```
-Here’s the folder and file structure you provided, formatted in a dropdown style using markdown:
-
 <details>
   <summary>📂 README</summary>
 </details>
@@ -99,6 +96,3 @@ Here’s the folder and file structure you provided, formatted in a dropdown sty
 <details>
   <summary>📂 End</summary>
 </details>
-
-This layout preserves the structure and categories you shared, with collapsible sections for clarity.
-```
