@@ -9,8 +9,6 @@ Content will still be missing and therefore I have incorparated external work, e
 
 ## **Folder Structure** <br><br>
 
-### Base
-
 <details>
   <summary>📂 README</summary>
 </details>
