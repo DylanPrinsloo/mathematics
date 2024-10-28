@@ -10,19 +10,6 @@ Content will still be missing and therefore I have incorparated external work, e
 ## **Folder Structure** <br><br>
 
 <details>
-  <summary>🔥 Problems</summary>
-  <ul>
-    <li>📂 Algebra</li>
-    <li>📂 Discrete Mathematics</li>
-    <li>📂 Calculus</li>
-    <li>📂 Probability and Statistics</li>
-    <li>📂 Numerical Methods</li>
-    <li>📂 How problems are done?</li>
-
-  </ul>
-</details>
-
-<details>
   <summary>📂 Algebra</summary>
   <ul>
     <li>📂 Linear Algebra</li>
@@ -93,6 +80,19 @@ Content will still be missing and therefore I have incorparated external work, e
     <li>📄 Numerical Analysis (Error Analysis, Numerical Stability)</li>
     <li>📄 Numerical Solutions (Linear/Nonlinear Equations, Integration)</li>
     <li>📄 Applications to Scientific Computing</li>
+  </ul>
+</details>
+
+<details>
+  <summary>🔥 Problems</summary>
+  <ul>
+    <li>📂 Algebra</li>
+    <li>📂 Discrete Mathematics</li>
+    <li>📂 Calculus</li>
+    <li>📂 Probability and Statistics</li>
+    <li>📂 Numerical Methods</li>
+    <li>📄 How problems are done?</li>
+
   </ul>
 </details>
 
