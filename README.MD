@@ -10,7 +10,16 @@ Content will still be missing and therefore I have incorparated external work, e
 ## **Folder Structure** <br><br>
 
 <details>
-  <summary>📂 README</summary>
+  <summary>🔥 Problems</summary>
+  <ul>
+    <li>📂 Algebra</li>
+    <li>📂 Discrete Mathematics</li>
+    <li>📂 Calculus</li>
+    <li>📂 Probability and Statistics</li>
+    <li>📂 Numerical Methods</li>
+    <li>📂 How problems are done?</li>
+
+  </ul>
 </details>
 
 <details>
@@ -88,9 +97,9 @@ Content will still be missing and therefore I have incorparated external work, e
 </details>
 
 <details>
-  <summary>📂 Notes/extra</summary>
+  <summary>🧑 Notes/extra</summary>
+  <ul>
+    <li>📄 list of derivative rules </li>
+  </ul>
 </details>
 
-<details>
-  <summary>📂 End</summary>
-</details>
