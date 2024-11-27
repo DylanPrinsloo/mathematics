@@ -96,10 +96,3 @@ Content will still be missing and therefore I have incorparated external work, e
   </ul>
 </details>
 
-<details>
-  <summary>🧑 Notes/extra</summary>
-  <ul>
-    <li>📄 list of derivative rules </li>
-  </ul>
-</details>
-
