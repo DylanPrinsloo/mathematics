@@ -91,6 +91,11 @@ Content will still be missing and therefore I have incorparated external work, e
     <li>📂 Calculus</li>
     <li>📂 Probability and Statistics</li>
     <li>📂 Numerical Methods</li>
+    <li>📂 Exam papers</li>
+    <ul>
+      <li>📂 Midterms</li>
+      <li>📂 Finals</li>
+    </ul>
     <li>📄 How problems are done?</li>
 
   </ul>
