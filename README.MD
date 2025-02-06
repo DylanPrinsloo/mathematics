@@ -17,6 +17,8 @@ Content will still be missing and therefore I have incorparated external work, e
       <li>📄 Matrix Theory (Matrices, Determinants, Linear Equations)</li>
       <li>📄 Vector Spaces (Subspaces, Basis, Dimension)</li>
       <li>📄 Eigenvalues and Eigenvectors</li>
+      <li>📄 Types of Relations</li>
+      <li>📄 Vectors and Linear transformations</li>
     </ul>
     <li>📂 Advanced Linear Algebra (Year 2)</li>
     <ul>
