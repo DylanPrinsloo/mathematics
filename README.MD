@@ -26,6 +26,10 @@ Content will still be missing and therefore I have incorparated external work, e
       <li>📄 Inner Product Spaces, Diagonalization</li>
       <li>📄 Applications to Computer Science (Data Science, Machine Learning)</li>
     </ul>
+    <li>📂 psets</li>
+    <ul>
+      <li> Problems
+    </ul>
   </ul>
 </details>
 
@@ -41,6 +45,10 @@ Content will still be missing and therefore I have incorparated external work, e
       <li>📄 Graph Theory (Graphs, Trees, Networks)</li>
       <li>📄 Number Theory (Prime Numbers, Divisibility, Modular Arithmetic)</li>
       <li>📄 Applications to Cryptography and Algorithms</li>
+    </ul>
+    <li>📂 psets</li>
+    <ul>
+      <li> Problems
     </ul>
   </ul>
 </details>
@@ -61,6 +69,10 @@ Content will still be missing and therefore I have incorparated external work, e
       <li>📄 Vector Calculus (Gradient, Divergence, Curl)</li>
       <li>📄 Differential Equations (Introduction and Applications)</li>
     </ul>
+    <li>📂 psets</li>
+    <ul>
+      <li> Problems
+    </ul>
   </ul>
 </details>
 
@@ -73,6 +85,10 @@ Content will still be missing and therefore I have incorparated external work, e
     <li>📄 Descriptive Statistics</li>
     <li>📄 Hypothesis Testing and Confidence Intervals</li>
     <li>📄 Linear Regression and Correlation</li>
+    <li>📂 psets</li>
+    <ul>
+      <li> Problems
+    </ul>
   </ul>
 </details>
 
@@ -82,24 +98,19 @@ Content will still be missing and therefore I have incorparated external work, e
     <li>📄 Numerical Analysis (Error Analysis, Numerical Stability)</li>
     <li>📄 Numerical Solutions (Linear/Nonlinear Equations, Integration)</li>
     <li>📄 Applications to Scientific Computing</li>
+    <li>📂 psets</li>
+    <ul>
+      <li> Problems
+    </ul>
   </ul>
 </details>
 
 <details>
-  <summary>🔥 Problems</summary>
-  <ul>
-    <li>📂 Algebra</li>
-    <li>📂 Discrete Mathematics</li>
-    <li>📂 Calculus</li>
-    <li>📂 Probability and Statistics</li>
-    <li>📂 Numerical Methods</li>
-    <li>📂 Exam papers</li>
+  <summary>🔥 Exams</summary>
     <ul>
       <li>📂 Midterms</li>
       <li>📂 Finals</li>
-    </ul>
-    <li>📄 How problems are done?</li>
-
+      <li>📄 How problems are done?</li>
   </ul>
 </details>
 
