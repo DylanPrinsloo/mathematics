@@ -1,6 +1,6 @@
 # University-Math 2023-2026
 
-This Repository was put together for the common goal of creating a collective Math repository. Some of the Math below was required for completing a 3-year 
+This Repository was put together for the common goal of creating a collective Math repository. Some of the Math below was required for completing a 4-year 
 BSc in Computer Science at my University. Each `folder` is labelled by topic. See the below tree diagram to help navigate the repository.
 
 Content will still be missing and therefore I have incorparated external work, exams and tests. The  Math `Problems` folders will have Exams, tests or small problems to solve. Some Solutions are given while others sadly are missing.
